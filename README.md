@@ -3,4 +3,5 @@
 ## Ma todo liste
 
 - [x] Creer le depot
-- [ ] Modifier le fichier `README.md`
+- [x] Modifier le fichier `README.md`
+- [ ] Commencer KiCad 
