@@ -5,3 +5,5 @@
 - [x] Creer le depot
 - [x] Modifier le fichier `README.md`
 - [ ] Commencer KiCad 
+
+vous etes nuls
