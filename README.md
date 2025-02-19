@@ -2,5 +2,5 @@
 
 ## Ma todo liste
 
--  [x] Creer le depot
--  [ ] Modifier le fichier `README.md`
+- [x] Creer le depot
+- [ ] Modifier le fichier `README.md`
